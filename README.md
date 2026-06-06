@@ -9,7 +9,6 @@
   <img src=https://media.tenor.com/A1evxyTvr2IAAAAm/glitter-graphic-divider-black-grey.webp width="1000" height="350" />
   <img width="1000" height="600" src=https://i.pinimg.com/736x/70/8a/27/708a27583b42736962d3fc3c0b933716.jpg>
     <img width="1000" height="200" src=https://media.tenor.com/Hpao_w54icEAAAAm/coquette-aesthetic.webp>
- <img width="500" height="700" src=https://media.tenor.com/BhoowfjZeSgAAAAm/pixel-art-kitty.webp>
 </p>
 
 <!--
