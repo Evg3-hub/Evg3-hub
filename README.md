@@ -1,14 +1,15 @@
 
-<h1 align="center">𝓗𝓲! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 <a href="https://daniilshat.ru/" target="_blank">𝓔𝓿𝓰3</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">𝓗𝓲! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 <a href="https://daniilshat.ru/" target="_blank">𝓔𝓿𝓰3!</a> 
 <h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
 <h3 align="center">𝔭𝔯𝔬𝔫𝔬𝔲𝔫𝔰: 𝔱𝔥𝔢𝔶/𝔱𝔥𝔢𝔪, 𝔟𝔡𝔞𝔶: 02/06/2007</h3> 
 <h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
 
+
 <p align="center">
+  <img src=https://media.tenor.com/A1evxyTvr2IAAAAm/glitter-graphic-divider-black-grey.webp width="1000" height="350" />
   <img width="1000" height="600" src=https://i.pinimg.com/736x/70/8a/27/708a27583b42736962d3fc3c0b933716.jpg>
 </p>
-
+<img src=https://media.tenor.com/-eox_CRxbXIAAAAM/lace-coquette.gif width="1000" height="350" />
 <!--
 **Evg3-hub/Evg3-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
