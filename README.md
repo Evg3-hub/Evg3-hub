@@ -1,10 +1,13 @@
 
 <h1 align="center">𝓗𝓲! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 <a href="https://daniilshat.ru/" target="_blank">𝓔𝓿𝓰3</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">srry i idk what to say</h3>
-<img src=D:\Документы\Pictures alt="альтернативный текст">
+<h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
+<h3 align="center">𝔭𝔯𝔬𝔫𝔬𝔲𝔫𝔰: 𝔱𝔥𝔢𝔶/𝔱𝔥𝔢𝔪, 𝔟𝔡𝔞𝔶: 02/06/2007</h3> 
+<h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
 
-
+<p align="center">
+  <img width="1000" height="600" src="https://i.pinimg.com/736x/8e/a5/e7/8ea5e7217f24720e775d86c0faf7b75b.jpg">
+</p>
 
 <!--
 **Evg3-hub/Evg3-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
