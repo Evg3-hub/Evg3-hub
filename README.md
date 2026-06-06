@@ -6,7 +6,7 @@
 <h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
 
 <p align="center">
-  <img width="1000" height="600" src="https://i.pinimg.com/736x/8e/a5/e7/8ea5e7217f24720e775d86c0faf7b75b.jpg">
+  <img width="1000" height="600" src=https://i.pinimg.com/736x/70/8a/27/708a27583b42736962d3fc3c0b933716.jpg>
 </p>
 
 <!--
