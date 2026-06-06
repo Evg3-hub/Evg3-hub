@@ -1,4 +1,10 @@
-## Hi there 👋
+
+<h1 align="center">𝓗𝓲! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 <a href="https://daniilshat.ru/" target="_blank">𝓔𝓿𝓰3</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">srry i idk what to say</h3>
+<img src=D:\Документы\Pictures alt="альтернативный текст">
+
+
 
 <!--
 **Evg3-hub/Evg3-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
