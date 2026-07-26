@@ -1,7 +1,7 @@
 
 <h1 align="center">𝓗𝓲! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 <a href="https://daniilshat.ru/" target="_blank">𝓔𝓿𝓰3! <3 </a> 
 <h3 align="center">.·:*¨¨* ≈☆≈ *¨¨*:·.</h3> 
-  <h3 align="center">𝓔𝓝𝓕𝓟 7𝔀6 (782) 𝓼𝓹7-𝓼𝔁8-𝓼𝓹2</h3> 
+  <h3 align="center">𝓔𝓝𝓕𝓟  𝓼𝓹/𝓼𝔁 7𝔀6 (782) 𝓼𝓹7-𝓼𝔁8-𝓼𝓹2</h3> 
 <h3 align="center">𝔭𝔯𝔬𝔫𝔬𝔲𝔫𝔰: 𝔱𝔥𝔢𝔶/𝔱𝔥𝔢𝔪, 𝔫𝔬𝔫𝔟𝔦𝔫𝔞𝔯𝔶</h3> 
   <h3 align="center"> 𝔟𝔡𝔞𝔶: 02/06/2007</h3>
   <h3 align="center">⊹ ࣪ ˖╰┈➤ 19 y.o  ~♥~ 𝘔𝘈𝘛𝘊𝘏𝘐𝘕𝘎 𝘞𝘐𝘛𝘏 @wikich3lti ⊹ ࣪ ˖ (luv u sm!! <3)  </h3> 
